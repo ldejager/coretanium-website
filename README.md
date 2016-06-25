@@ -1,2 +1,2 @@
-# coretanium-website
+# Coretanium Website
 Boostrap source for coretanium.net
